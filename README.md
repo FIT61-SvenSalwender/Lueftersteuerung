@@ -30,9 +30,9 @@ Ziel des Projekts ist ein Prototyp für die automatische, temperaturabhängige L
 
 Das erste Bild zeigt den Anschlussplan der Lüftersteuerung. Das zweite Bild dokumentiert die relevanten Kippschalter: A8 ist für den Lüfter und C9 ist für den DHT11.
 
-https://github.com/user-attachments/assets/70f26e47-3da3-4a38-b413-e9cad82c9f27
+https://github.com/user-attachments/assets/f65f16b4-3457-4342-ade0-e3ea652c11af
 
-[Demonstrationsvideo als MP4 herunterladen](media/WhatsApp%20Video%202026-11-26%20at%2019.13.34.mp4?raw=true)
+[Demonstrationsvideo als MP4 herunterladen](media/Demo-Video.mp4?raw=true)
 
 ### Foto des Aufbaus
 
