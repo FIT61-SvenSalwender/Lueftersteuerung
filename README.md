@@ -34,12 +34,6 @@ https://github.com/user-attachments/assets/f65f16b4-3457-4342-ade0-e3ea652c11af
 
 [Demonstrationsvideo als MP4 herunterladen](media/Demo-Video.mp4?raw=true)
 
-### Foto des Aufbaus
-
-Zum Einfügen eines eigenen Fotos: Legen Sie das Bild als `media/aufbau.jpg` ab und aktivieren Sie die folgende Zeile:
-
-<!-- ![Unser Aufbau mit ESP32, LCD und Lüfter](media/aufbau.jpg) -->
-
 ## Schaltplan und Pinbelegung
 
 Der Anschlussplan zeigt die logischen Verbindungen auf dem Joy-Pi Advanced. Da die Komponenten auf der Platine integriert sind, werden interne Treiberschaltungen, Widerstände und Versorgungspfade nicht als diskrete Bauteile dargestellt. Grundlage sind der vorhandene Quellcode und die Pinbelegung der Herstelleranleitung (31.10.2023, Abschnitt 3 „Sensorik“). Die tatsächlichen Schalterstellungen sind am eigenen Gerät abzugleichen.
